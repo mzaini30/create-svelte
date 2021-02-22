@@ -1,12 +1,12 @@
 {
   "name": "@mzaini30/create-svelte",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "@mzaini30/create-svelte": "index.js"
+    "@mzaini30/create-svelte": "install"
   },
   "repository": {
     "type": "git",
