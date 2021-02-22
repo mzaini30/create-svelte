@@ -1,3 +1,2 @@
-module.exports = function(){
-	console.log('Hello World')
-}
+#!/usr/bin/env node
+console.log('Hello World')
