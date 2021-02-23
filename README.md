@@ -1,6 +1,6 @@
 # Template Svelte
 
-Cara installnya adalab dengan mengetikkan perintah:
+Cara installnya adalah dengan mengetikkan perintah:
 
 ```bash
 npm init @mzaini30/svelte
