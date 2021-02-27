@@ -3,7 +3,7 @@
 Cara installnya adalah dengan mengetikkan perintah:
 
 ```bash
-npm init @mzaini30/svelte
+npm init svelte-zen
 ```
 
 Lalu:
