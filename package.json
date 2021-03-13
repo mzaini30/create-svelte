@@ -1,12 +1,12 @@
 {
   "name": "create-svelte-zen",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-svelte-zen": "vite"
+    "create-svelte-zen": "install"
   },
   "repository": {
     "type": "git",
